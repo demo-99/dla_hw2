@@ -1,2 +1,3 @@
-# dla_hw2
-HW 2 solution with report
+# HW2 DLA
+Для воспроизведения экспериментов можно запустить `reproduce.ipynb` из Colab'а.
+Для просмотра логов и процесса обучения стоит смотреть `code.ipynb`.
